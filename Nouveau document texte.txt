@@ -1,6 +1,6 @@
 une premiere ligne
 ajout d'une 2eme ligne
-une 3eme ligne
+modification dardour au milieu
 une 4eme ligne
 une 5eme commit
 6eme commit
