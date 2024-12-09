@@ -9,4 +9,8 @@ dardour
 autre modif ff
 test no ff
 autre modif
+<<<<<<< HEAD
 modification develop
+=======
+modification dardour 1
+>>>>>>> 95af380 (modif dardour 1)
