@@ -15,3 +15,4 @@ modification develop
 modification dardour 1
 >>>>>>> 95af380 (modif dardour 1)
 modification 1 depuis le serveur
+modification depuis le pc
